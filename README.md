@@ -12,10 +12,9 @@ Continuous Operation: Menu-driven interface that stays active for multiple queri
 Simple Navigation: Easy-to-use text commands for efficient zoo management workflows.
 
 Available Habitats
-
-Habitat 0: Camel - Watch our camel sunbathing
-Habitat 1: Lion - Listen to the mighty roar
-Habitat 2: Deer - Check if Bambi needs feeding
-Habitat 3: Goose - Observe the goose's watchful behavior
-Habitat 4: Bat - Monitor the bat's well-being
-Habitat 5: Rabbit - Keep an eye on the growing rabbit family
+0 - Camel: Watch our camel sunbathing
+1 - Lion: Listen to the mighty roar
+2 - Deer: Check if Bambi needs feeding
+3 - Goose: Observe the goose's watchful behavior
+4 - Bat: Monitor the bat's well-being
+5 - Rabbit: Keep an eye on the growing rabbit family
